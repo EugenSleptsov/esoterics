@@ -1,4 +1,4 @@
-package languages
+package esoterics
 
 // PlusMinusEquals is a simple esoteric programming language that uses only three commands: +, -, and =.
 // + increments the accumulator, - decrements the accumulator, and = outputs the accumulator as a character and a newline.
