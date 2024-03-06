@@ -1,0 +1,2 @@
+# esoterics
+Esoterics Golang module
