@@ -5,6 +5,7 @@ The Esoterics module provides access to multiple interpreters of Esoteric langua
 ## Available Interpreters
 
 - PlusMinusEquals: A simple interpreter for the PlusMinusEquals esoteric programming language.
+- MiniStringFuck: https://esolangs.org/wiki/MiniStringFuck
 
 ## Installation
 
